@@ -1,1 +1,10 @@
 raw/
+.README.md.swp
+.bash_history
+.cache/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.python_history
+
